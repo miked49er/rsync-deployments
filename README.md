@@ -120,3 +120,9 @@ jobs:
         remote_user: ${{ secrets.DEPLOY_USER }}
         remote_key: ${{ secrets.DEPLOY_KEY }}
 ```
+
+---
+
+## Acknowledgements
+
++ This project is a fork of [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments)
