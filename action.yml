@@ -1,5 +1,5 @@
-name: 'Rsync Deploy'
-description: 'GitHub Action for deploying code via rsync over ssh'
+name: 'Deployments via Rsync'
+description: 'Use rsync to deploy project over ssh'
 author: 'miked49er'
 inputs:
   switches:
@@ -34,4 +34,4 @@ runs:
   image: 'Dockerfile'
 branding:
   icon: 'download'
-  color: '#7A1C96'
+  color: 'purple'
